@@ -1,0 +1,7 @@
+price, name, merk
+395.95  	television				Sony
+550.00  	music center			LG
+995.95  	desktop computer		Lenovo
+199.95  	microwave oven			Panasonic
+299.99  	washing machine			Samsung
+149.95		freezer					Akari
